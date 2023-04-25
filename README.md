@@ -1,3 +1,3 @@
 # threejs-3Dtext
 
-published at netlify https://unrivaled-piroshki-859a84.netlify.app
+published at https://threejs-3dtext-practice.netlify.app/
